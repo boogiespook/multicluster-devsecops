@@ -1,6 +1,6 @@
 ---
 global:
-  pattern: multicluster-devsecops
+  pattern: multicloud-gitops
 
   cicd:
     namespace: devsecops-ci
